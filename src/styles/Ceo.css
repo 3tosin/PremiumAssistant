@@ -1,0 +1,24 @@
+
+
+.ceo__wrapper{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.ceo__content, .ceo__img{
+    width: 50%;
+}
+.ceo__content p{
+    font-size: 1rem;
+}
+.ceo__description {
+    margin-top: 60px;
+    width: 100%;
+    line-height: 30px;
+}
+.ceo__img, img{
+
+    width: 500px;
+    height: 300px;
+}
